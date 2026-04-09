@@ -1,10 +1,12 @@
-# coursera-git-grade-assignment
+# Simple Interest Calculator
 
+A simple shell script that calculates simple interest given principal, annual rate of interest and time period in years.
 
-This is my first repository for the Coursera course. 
-In this task, I am setting up the project structure and initializing the README file.
+## How it works:
+The script takes the following inputs:
+- `p`: Principal amount
+- `t`: Time period in years
+- `r`: Annual rate of interest
 
-## Task 1
-- Created the repository
-- Initialized the README.md file
-Fixing a typo here.
+It calculates the interest using the formula:
+**Simple Interest = (P * R * T) / 100**
