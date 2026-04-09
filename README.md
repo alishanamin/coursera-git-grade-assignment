@@ -7,3 +7,4 @@ In this task, I am setting up the project structure and initializing the README 
 ## Task 1
 - Created the repository
 - Initialized the README.md file
+Fixing a typo here.
